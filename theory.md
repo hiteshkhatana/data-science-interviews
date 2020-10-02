@@ -328,7 +328,7 @@ Answer here
 
 **What is regularization? Why do we need it? 👶**
 
-Answer here
+The word regularize means to make things regular or acceptable. This is exactly why we use it for. Regularizations are techniques used to reduce the error by fitting a function appropriately on the given training set and avoid overfitting. 
 
 <br/>
 
